@@ -5,7 +5,7 @@ This project focuses on predicting cryptocurrency market sentiment using **Natur
 
 ---
 
-## 🏫 Academic Context
+## Academic Context
 - **University:** Shaheed Zulfikar Ali Bhutto Institute of Science & Technology (SZABIST), Islamabad  
 - **Department:** Robotics & Artificial Intelligence  
 - **Course:** Lab DSA – BS (AI)  
@@ -13,7 +13,7 @@ This project focuses on predicting cryptocurrency market sentiment using **Natur
 
 ---
 
-## 👩‍🎓 Authors
+## Authors
 - **Abdul Basit**  
 - **Registration Numbers:** 24108150  
 
@@ -29,7 +29,7 @@ This project aims to build an AI-based sentiment analysis system that can:
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - **Sentiment Classification:** Categorize crypto-related text into Positive, Neutral, or Negative  
 - **NLP + ML Integration:** Apply NLP techniques with machine learning and deep learning models  
 - **Trend Analysis:** Correlate sentiment trends with cryptocurrency market behavior  
@@ -49,7 +49,7 @@ This project aims to build an AI-based sentiment analysis system that can:
 
 ---
 
-## 🛠️ Technologies & Libraries
+##  Technologies & Libraries
 - **Programming Language:** Python 3.9.8  
 - **Libraries:**  
   - TensorFlow  
@@ -61,7 +61,7 @@ This project aims to build an AI-based sentiment analysis system that can:
 
 ---
 
-## 🔄 Methodology
+## Methodology
 ### 1. Data Preprocessing
 - Text normalization  
 - Tokenization and lemmatization  
@@ -89,7 +89,7 @@ The LSTM model demonstrated superior performance due to its ability to capture c
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - Implement transformer-based models (BERT, RoBERTa)  
 - Integrate real-time data from Twitter and Reddit APIs  
 - Develop a web dashboard for live sentiment visualization  
